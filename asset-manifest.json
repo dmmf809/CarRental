@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.js": "/react-car-rental/static/js/main.3518c273.chunk.js",
-    "main.js.map": "/react-car-rental/static/js/main.3518c273.chunk.js.map",
+    "main.js": "/react-car-rental/static/js/main.4eb43547.chunk.js",
+    "main.js.map": "/react-car-rental/static/js/main.4eb43547.chunk.js.map",
     "runtime-main.js": "/react-car-rental/static/js/runtime-main.5c0e9a8e.js",
     "runtime-main.js.map": "/react-car-rental/static/js/runtime-main.5c0e9a8e.js.map",
     "static/js/2.0c9cfa2d.chunk.js": "/react-car-rental/static/js/2.0c9cfa2d.chunk.js",
     "static/js/2.0c9cfa2d.chunk.js.map": "/react-car-rental/static/js/2.0c9cfa2d.chunk.js.map",
     "index.html": "/react-car-rental/index.html",
     "static/js/2.0c9cfa2d.chunk.js.LICENSE.txt": "/react-car-rental/static/js/2.0c9cfa2d.chunk.js.LICENSE.txt",
+    "static/media/aston-martin.48325287.png": "/react-car-rental/static/media/aston-martin.48325287.png",
     "static/media/compact.f3119a90.png": "/react-car-rental/static/media/compact.f3119a90.png",
+    "static/media/genesis.d7ac68af.png": "/react-car-rental/static/media/genesis.d7ac68af.png",
+    "static/media/gmc.61d5d9b8.png": "/react-car-rental/static/media/gmc.61d5d9b8.png",
+    "static/media/homebg.762c6f82.jpg": "/react-car-rental/static/media/homebg.762c6f82.jpg",
     "static/media/luxury.e8b99fe2.png": "/react-car-rental/static/media/luxury.e8b99fe2.png",
     "static/media/midsize2.0c1c053d.png": "/react-car-rental/static/media/midsize2.0c1c053d.png",
     "static/media/van.338a4c55.png": "/react-car-rental/static/media/van.338a4c55.png"
@@ -16,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime-main.5c0e9a8e.js",
     "static/js/2.0c9cfa2d.chunk.js",
-    "static/js/main.3518c273.chunk.js"
+    "static/js/main.4eb43547.chunk.js"
   ]
 }
