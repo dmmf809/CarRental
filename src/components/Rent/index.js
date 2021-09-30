@@ -34,14 +34,14 @@ import Van from './pics/van.png';
 import Footer from '../Footer';
 
 const carsToRent = [
-  { value: 15, label: 'Comapact ($15/day)', name: 'Compact' },
+  { value: 15, label: 'Compact ($15/day)', name: 'Compact' },
   { value: 20, label: 'Mid-size ($20/day)', name: 'Mid-size' },
   { value: 35, label: 'Luxury ($35/day)', name: 'Luxury' },
   { value: 40, label: 'Van/Truck ($40/day)', name: 'Van/Truck' },
 ];
 
 const extraCharge = [
-  { price: 5, label: 'Roof or Bicycyle Rack ($5/day)' },
+  { price: 5, label: 'Roof or Bicycle Rack ($5/day)' },
   { price: 10, label: 'GPS ($10/day)' },
   { price: 0, label: 'Child Seat (free)' },
 ];
@@ -176,6 +176,7 @@ const Rent = ({ data }) => {
     setCheckBox(new Array(extraCharge.length).fill(false));
     setTotalPrice(0);
     setShowTotalPrice(false);
+    setDays('1');
   };
 
   return (
