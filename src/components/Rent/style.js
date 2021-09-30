@@ -63,7 +63,9 @@ export const ClientList = styled.select`
   border-style: none;
 `;
 
-export const Information = styled.div``;
+export const Information = styled.div`
+  margin-left: 20px;
+`;
 
 export const InformationHeading = styled.h1`
   font-size: 2rem;
