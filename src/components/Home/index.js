@@ -10,6 +10,10 @@ import {
   HomeBtnWrapper,
   Button,
 } from './style';
+import MainBg from './pics/homebg.jpg';
+import GMC from './pics/gmc.png';
+import Genesis from './pics/genesis.png';
+import AstonMartin from './pics/aston-martin.png';
 
 const Home = () => {
   return (
@@ -17,14 +21,14 @@ const Home = () => {
       <Navbar />
       <HomeContainer id='home'>
         <HomeBg>
-          <ImgBg src='%PUBLIC_URL%/homebg.jpg' alt='Home background' />
+          <ImgBg src={MainBg} alt='Home background' />
         </HomeBg>
         <HomeContent>
           <HomeHeading>Choose your car</HomeHeading>
           <HomeImages>
-            <Img src='%PUBLIC_URL%/genesis.png' alt='Genesis G8' />
-            <Img src='%PUBLIC_URL%/gmc.png' alt='GMC' />
-            <Img src='%PUBLIC_URL%/aston-martin.png' alt='Aston Martin' />
+            <Img src={Genesis} alt='Genesis G8' />
+            <Img src={GMC} alt='GMC' />
+            <Img src={AstonMartin} alt='Aston Martin' />
           </HomeImages>
           <HomeBtnWrapper>
             <Button to='rent'>Rent a car</Button>
