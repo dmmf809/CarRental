@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const FooterContainer = styled.div`
   background-color: #022f40;
-  padding: 2rem 0;
+  padding: 1rem 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -34,7 +34,7 @@ export const Email = styled.a`
   transition: 0.3 ease-out;
 
   &:hover {
-    color: #ffff;
+    color: #0052fa;
     transition: 0.3 ease-out;
   }
 `;
@@ -46,7 +46,24 @@ export const Phone = styled.a`
   transition: 0.3 ease-out;
 
   &:hover {
+    color: #0052fa;
+    transition: 0.3 ease-out;
+  }
+`;
+
+export const Icon = styled.a`
+  color: #9d9fa3;
+  text-decoration: none;
+  transition: 0.3 ease-out;
+
+  &:hover {
     color: #ffff;
     transition: 0.3 ease-out;
   }
+`;
+
+export const IconP = styled.p`
+  margin-top: 10px;
+  font-size: 12px;
+  color: #9d9fa3;
 `;

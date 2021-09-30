@@ -17,14 +17,14 @@ const Home = () => {
       <Navbar />
       <HomeContainer id='home'>
         <HomeBg>
-          <ImgBg src='/pics/homebg.jpg' alt='Home background' />
+          <ImgBg src='%PUBLIC_URL%/homebg.jpg' alt='Home background' />
         </HomeBg>
         <HomeContent>
           <HomeHeading>Choose your car</HomeHeading>
           <HomeImages>
-            <Img src='/pics/genesis.png' alt='Genesis G8' />
-            <Img src='/pics/gmc.png' alt='GMC' />
-            <Img src='/pics/aston-martin.png' alt='Aston Martin' />
+            <Img src='%PUBLIC_URL%/genesis.png' alt='Genesis G8' />
+            <Img src='%PUBLIC_URL%/gmc.png' alt='GMC' />
+            <Img src='%PUBLIC_URL%/aston-martin.png' alt='Aston Martin' />
           </HomeImages>
           <HomeBtnWrapper>
             <Button to='rent'>Rent a car</Button>
