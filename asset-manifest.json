@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/react-app-dodgy-brake-rental/static/js/main.8ba747be.chunk.js",
-    "main.js.map": "/react-app-dodgy-brake-rental/static/js/main.8ba747be.chunk.js.map",
-    "runtime-main.js": "/react-app-dodgy-brake-rental/static/js/runtime-main.b8c378f2.js",
-    "runtime-main.js.map": "/react-app-dodgy-brake-rental/static/js/runtime-main.b8c378f2.js.map",
-    "static/js/2.eb7f0e65.chunk.js": "/react-app-dodgy-brake-rental/static/js/2.eb7f0e65.chunk.js",
-    "static/js/2.eb7f0e65.chunk.js.map": "/react-app-dodgy-brake-rental/static/js/2.eb7f0e65.chunk.js.map",
-    "index.html": "/react-app-dodgy-brake-rental/index.html",
-    "static/js/2.eb7f0e65.chunk.js.LICENSE.txt": "/react-app-dodgy-brake-rental/static/js/2.eb7f0e65.chunk.js.LICENSE.txt",
-    "static/media/aston-martin.48325287.png": "/react-app-dodgy-brake-rental/static/media/aston-martin.48325287.png",
-    "static/media/compact.f3119a90.png": "/react-app-dodgy-brake-rental/static/media/compact.f3119a90.png",
-    "static/media/genesis.d7ac68af.png": "/react-app-dodgy-brake-rental/static/media/genesis.d7ac68af.png",
-    "static/media/gmc.61d5d9b8.png": "/react-app-dodgy-brake-rental/static/media/gmc.61d5d9b8.png",
-    "static/media/homebg.762c6f82.jpg": "/react-app-dodgy-brake-rental/static/media/homebg.762c6f82.jpg",
-    "static/media/luxury.e8b99fe2.png": "/react-app-dodgy-brake-rental/static/media/luxury.e8b99fe2.png",
-    "static/media/midsize2.0c1c053d.png": "/react-app-dodgy-brake-rental/static/media/midsize2.0c1c053d.png",
-    "static/media/van.338a4c55.png": "/react-app-dodgy-brake-rental/static/media/van.338a4c55.png"
+    "main.js": "/CarRental/static/js/main.57eb15b0.chunk.js",
+    "main.js.map": "/CarRental/static/js/main.57eb15b0.chunk.js.map",
+    "runtime-main.js": "/CarRental/static/js/runtime-main.3c02950d.js",
+    "runtime-main.js.map": "/CarRental/static/js/runtime-main.3c02950d.js.map",
+    "static/js/2.bba6c137.chunk.js": "/CarRental/static/js/2.bba6c137.chunk.js",
+    "static/js/2.bba6c137.chunk.js.map": "/CarRental/static/js/2.bba6c137.chunk.js.map",
+    "index.html": "/CarRental/index.html",
+    "static/js/2.bba6c137.chunk.js.LICENSE.txt": "/CarRental/static/js/2.bba6c137.chunk.js.LICENSE.txt",
+    "static/media/aston-martin.48325287.png": "/CarRental/static/media/aston-martin.48325287.png",
+    "static/media/compact.f3119a90.png": "/CarRental/static/media/compact.f3119a90.png",
+    "static/media/genesis.d7ac68af.png": "/CarRental/static/media/genesis.d7ac68af.png",
+    "static/media/gmc.61d5d9b8.png": "/CarRental/static/media/gmc.61d5d9b8.png",
+    "static/media/homebg.762c6f82.jpg": "/CarRental/static/media/homebg.762c6f82.jpg",
+    "static/media/luxury.e8b99fe2.png": "/CarRental/static/media/luxury.e8b99fe2.png",
+    "static/media/midsize2.0c1c053d.png": "/CarRental/static/media/midsize2.0c1c053d.png",
+    "static/media/van.338a4c55.png": "/CarRental/static/media/van.338a4c55.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8c378f2.js",
-    "static/js/2.eb7f0e65.chunk.js",
-    "static/js/main.8ba747be.chunk.js"
+    "static/js/runtime-main.3c02950d.js",
+    "static/js/2.bba6c137.chunk.js",
+    "static/js/main.57eb15b0.chunk.js"
   ]
 }
