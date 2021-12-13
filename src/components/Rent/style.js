@@ -123,7 +123,7 @@ export const Option = styled.label`
 
 export const VehicleSelect = styled(Select)`
   margin-bottom: 15px;
-  color: black;
+  color: #000;
 `;
 
 export const ExtraLabel = styled.label`
