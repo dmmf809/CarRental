@@ -6,4 +6,4 @@ This React based website filters the clients based on the search parameter and d
 
 ## Deployment
 
-https://dmmf809.github.io/react-app-dodgy-brake-rental/
+https://dmmf809.github.io/CarRental/
