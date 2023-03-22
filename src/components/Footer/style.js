@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const FooterContainer = styled.div`
   background-color: #022f40;
@@ -43,6 +43,21 @@ export const Phone = styled.a`
   color: #c1cfc0;
   text-decoration: none;
   margin-bottom: 0.5rem;
+  transition: 0.3 ease-out;
+
+  &:hover {
+    color: #0052fa;
+    transition: 0.3 ease-out;
+  }
+`;
+export const SocialLinksContainer = styled.div`
+  display: flex;
+`;
+
+export const SocialLinks = styled.a`
+  color: #c1cfc0;
+  text-decoration: none;
+  margin: 0.5rem;
   transition: 0.3 ease-out;
 
   &:hover {
